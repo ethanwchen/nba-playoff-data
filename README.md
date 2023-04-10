@@ -1,6 +1,6 @@
 # NBA-Playoff-Data
 
-**A script that generates NBA Playoff Data**
+**A script that generates NBA playoff data**
 
 This repository provides a dataset of NBA regular season games for the 2021-2022 season. The data is sourced from the NBA API and includes game statistics for all playoff teams.
 
