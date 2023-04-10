@@ -1,10 +1,10 @@
 # NBA-Playoff-Data
 
-<img width="872" alt="Screen Shot 2023-04-09 at 8 05 46 PM" src="https://user-images.githubusercontent.com/96222805/230817377-7af567dc-f880-45b1-86b3-218c37a37bc1.png">
-
 **A script that generates NBA Playoff Data**
 
 This repository provides a dataset of NBA regular season games for the 2021-2022 season. The data is sourced from the NBA API and includes game statistics for all playoff teams.
+
+<img width="872" alt="Screen Shot 2023-04-09 at 8 05 46 PM" src="https://user-images.githubusercontent.com/96222805/230817377-7af567dc-f880-45b1-86b3-218c37a37bc1.png">
 
 ### Purpose
 
